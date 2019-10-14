@@ -1,3 +1,4 @@
 Pruebas de manejo en GitHub.
 Version: 1.0
-Rama: Master.
+Por: Diegopi93
+Rama:Footer.
