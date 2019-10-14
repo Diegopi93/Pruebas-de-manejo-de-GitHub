@@ -1,6 +1,6 @@
 Pruebas de manejo en GitHub.
 Version: 1.0
-Rama: Fix-typo.
+Rama: Master.
 
 Por: Diegopi93
 Sub-Rama:Footer.
