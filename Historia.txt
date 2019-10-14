@@ -2,8 +2,7 @@ Pruebas de manejo en GitHub.
 Version: 1.0
 Rama: Master.
 
-cambios realizados 
-Por: Diego93
+cambios realizados
+Por: Diegopi93
+Contribuyendo a un repositorio Open Source.
 Rama:Master.
-
-
