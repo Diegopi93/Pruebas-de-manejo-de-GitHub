@@ -1,6 +1,7 @@
 Pruebas de manejo en GitHub.
 Version: 1.0
+Rama: Master.
 
 
-Por: Diego93.
-Rama: Header.
+Por: Diegopi93
+Sub-Rama:Footer.
